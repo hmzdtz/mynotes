@@ -1,0 +1,10 @@
+{
+  "useTab": false,
+  "strictLineBreaks": true,
+  "trashOption": "local",
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "assets",
+  "alwaysUpdateLinks": false,
+  "useMarkdownLinks": true,
+  "promptDelete": false
+}
