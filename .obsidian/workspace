@@ -7,8 +7,12 @@
         "id": "b1431ba1884da501",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -120,8 +128,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "da5f2cf7bebbada5",
+  "active": "b1431ba1884da501",
   "lastOpenFiles": [
+    "contents/test.md",
+    "README.md",
+    "2022-10-06.md",
     "未命名 1.md",
     "未命名.md"
   ]
